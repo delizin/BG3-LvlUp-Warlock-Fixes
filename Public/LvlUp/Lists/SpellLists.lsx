@@ -28,6 +28,18 @@
                     <attribute id="Spells" type="LSString" value="Projectile_FreezingSphere;Target_Disintigrate;Target_VampiricTouch;Target_Power_Word_Kill;Projectile_MeteorSwarm;Target_HypnoticPattern;Zone_ConeOfCold;Projectile_AcidArrow;Target_Blindness;Shout_Blur;Target_Darkness;Target_Darkvision;Shout_DetectThoughts;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Projectile_ScorchingRay;Target_Shatter;Target_Web;Zone_BurningHands;Target_CharmPerson;Zone_ColorSpray;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Target_Jump;Target_Longstrider;Target_MageArmor;Projectile_ChromaticOrb;Projectile_MagicMissile;Target_ProtectionFromEvilAndGood;Projectile_RayOfSickness;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt;Projectile_Fireball"/>
                     <attribute id="UUID" type="guid" value="80c6b070-c3a6-4864-84ca-e78626784eb4"/>
                 </node>
+				<node id="SpellList"> Warlock Lvl 5 Eldritch Blast
+                    <attribute id="Spells" type="LSString" value="Projectile_EldritchBlast2"/>
+                    <attribute id="UUID" type="guid" value="5fa7a83f-ca16-4b51-9331-451f8333da91"/>
+                </node>
+				<node id="SpellList"> Warlock Lvl 11 Eldritch Blast
+                    <attribute id="Spells" type="LSString" value="Projectile_EldritchBlast3"/>
+                    <attribute id="UUID" type="guid" value="33db463d-c14f-41ac-b012-9b864b7e2ddb"/>
+                </node>
+				<node id="SpellList"> Warlock Lvl 17 Eldritch Blast
+                    <attribute id="Spells" type="LSString" value="Projectile_EldritchBlast4"/>
+                    <attribute id="UUID" type="guid" value="52d337bb-9c15-4182-80dd-938621f98910"/>
+                </node>
                 <node id="SpellList"> Great Old One Lvl 2 Spells
                     <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_Darkness;Shout_DetectThoughts;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Target_Shatter;Target_Silence;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_DissonantWhispers;Shout_ExpeditiousRetreat;Shout_HellishRebuke;Target_Hex;Target_HideousLaughter;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
                     <attribute id="UUID" type="guid" value="fe101a94-8619-49b2-859d-a68c2c291054"/>
