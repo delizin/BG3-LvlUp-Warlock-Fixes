@@ -2178,7 +2178,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(0aa0ea57-0943-44ad-87c8-5a966647820a,4,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(0aa0ea57-0943-44ad-87c8-5a966647820a,6,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="5e479a12-968a-410c-92b3-5f63c6cbee34"/>
                 </node>
@@ -2190,7 +2190,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(0aa0ea57-0943-44ad-87c8-5a966647820a,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="8317a919-11f3-4bf0-b4d0-63c790690f15"/>
                 </node>
@@ -2202,7 +2202,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(e7d8fc95-afdb-4d9c-82e0-8912611f4def,4,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(e7d8fc95-afdb-4d9c-82e0-8912611f4def,8,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="f3d4c378-0bf2-4335-b51d-5035b602e4be"/>
                 </node>
@@ -2214,7 +2214,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(e7d8fc95-afdb-4d9c-82e0-8912611f4def,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="c3e66cfc-c698-4714-a582-a448de46e445"/>
                 </node>
@@ -2226,7 +2226,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,4,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,10,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="78574bc3-af10-4c91-a45b-0ea5bc036956"/>
                 </node>
@@ -2250,7 +2250,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(ddc9ac3e-e6e4-497e-9ebd-d2fa1bda27cf,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(ddc9ac3e-e6e4-497e-9ebd-d2fa1bda27cf,1,0);SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="a1ac7a42-0f81-4016-a62a-b949391b03ab"/>
                 </node>
@@ -2274,7 +2274,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(c84831b9-c93e-48f9-b4a2-9e3b17b2ba8f,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(c84831b9-c93e-48f9-b4a2-9e3b17b2ba8f,1,0);SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="b6faef49-0a92-41a9-ae78-0505e4639fe4"/>
                 </node>
@@ -2298,7 +2298,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(1416bbcd-6253-46b9-8a33-f54095047580,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(1416bbcd-6253-46b9-8a33-f54095047580,1,0);SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="22c3172e-1dc7-4506-8dec-f2a044b69c0a"/>
                 </node>
@@ -2322,7 +2322,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(405a5791-1b07-4c5c-9127-89d95254b491,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(405a5791-1b07-4c5c-9127-89d95254b491,1,0);SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="de706364-6111-4449-84a7-50fd5cfe2bff"/>
                 </node>
@@ -2346,7 +2346,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,1,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,1,,,e9127b70-22b7-42a1-b172-d02f828f260a);SelectSpells(3f5e5e10-cf7c-456b-aec3-140b134ec7d5,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="2700b42c-3b2f-4fc7-b881-4acc4f0a3a1f"/>
                     <attribute id="UUID" type="guid" value="112f5ad3-5415-4de0-8108-bcae902dd369"/>
                 </node>
@@ -2382,7 +2382,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(540046e0-ffbe-41d2-906f-4aa66a673f73,4,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(540046e0-ffbe-41d2-906f-4aa66a673f73,6,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="a217a06e-bc0c-48b6-96f2-56cd524c3a57"/>
                 </node>
@@ -2394,7 +2394,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(540046e0-ffbe-41d2-906f-4aa66a673f73,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="912aa827-7fac-4d27-afdf-ff66b6be7ba6"/>
                 </node>
@@ -2406,7 +2406,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(7405e699-ab1d-4d8d-b7ce-62a1f5cdffb4,4,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(7405e699-ab1d-4d8d-b7ce-62a1f5cdffb4,8,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="afa91f1e-60e8-4efd-9cc7-94693c8fa399"/>
                 </node>
@@ -2418,7 +2418,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(7405e699-ab1d-4d8d-b7ce-62a1f5cdffb4,9,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="4f4da60f-f7c9-44d1-81dc-c5d46708ca12"/>
                 </node>
@@ -2430,7 +2430,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,4,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,10,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="d1c2d1e8-207e-471a-a617-b34b3cd467e1"/>
                 </node>
@@ -2454,7 +2454,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9274aae1-1172-4001-ae2f-7cd3662dde74,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9274aae1-1172-4001-ae2f-7cd3662dde74,1,0);SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="5fe11dc9-1725-49cf-a014-8bcdb878565d"/>
                 </node>
@@ -2478,7 +2478,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(23140f5e-a53b-4b14-b9fb-fb234781950d,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(23140f5e-a53b-4b14-b9fb-fb234781950d,1,0);SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="a8f4504a-a574-488f-81cc-46788f158d78"/>
                 </node>
@@ -2502,7 +2502,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(f46f6017-429e-4ee0-a875-38511ccc427d,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f46f6017-429e-4ee0-a875-38511ccc427d,1,0);SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="be39c5eb-d741-4b61-b4d4-10ccc0e5adb2"/>
                 </node>
@@ -2526,7 +2526,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5fa370c5-5501-4111-8241-ca4773e4ce00,1,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5fa370c5-5501-4111-8241-ca4773e4ce00,1,0);SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="6d40b494-753b-4127-b2c7-e0507f9ad6fa"/>
                 </node>
@@ -2550,7 +2550,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,1,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,1,,,e9127b70-22b7-42a1-b172-d02f828f260a);SelectSpells(4a79a833-0f35-44ac-abcc-9adc10c56f6b,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
                     <attribute id="TableUUID" type="guid" value="216e779e-3452-466c-933d-fb5723b90802"/>
                     <attribute id="UUID" type="guid" value="6a13584b-e7bd-4495-81b3-975d46b98827"/>
                 </node>
