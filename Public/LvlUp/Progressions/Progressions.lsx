@@ -1962,7 +1962,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(5fa7a83f-ca16-4b51-9331-451f8333da91,1,0,,,,AlwaysPrepared)"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(5fa7a83f-ca16-4b51-9331-451f8333da91,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="17dbf049-c6ba-44f0-9183-30847d25ea37"/>
                 </node>
@@ -2034,7 +2034,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(33db463d-c14f-41ac-b012-9b864b7e2ddb,1,0,,,,AlwaysPrepared)"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(33db463d-c14f-41ac-b012-9b864b7e2ddb,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="1b0dd7c9-5f14-44e7-8efe-0bf508fd6745"/>
                 </node>
@@ -2106,7 +2106,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(52d337bb-9c15-4182-80dd-938621f98910,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(52d337bb-9c15-4182-80dd-938621f98910,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="075bc288-dcd9-468f-86ea-060d556c2db8"/>
                 </node>
