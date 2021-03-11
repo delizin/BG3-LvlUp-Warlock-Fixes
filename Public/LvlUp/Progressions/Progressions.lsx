@@ -2940,7 +2940,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2948,10 +2948,10 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="be057180-de7e-48c2-9163-58d04a015bf1"/>
                 </node>
 				<node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
@@ -2960,11 +2960,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="5d225e03-f81f-4656-b7b2-f5c9efdfb665"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2972,7 +2972,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="96637b72-cc2e-40c9-9c9b-46259cb04e04"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -2984,11 +2984,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="035ae863-acd1-4a26-914b-60ba57197d4b"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,8)"/>
                     <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2996,10 +2996,10 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="61d5a884-609c-4a69-8509-97b1b1cc8daf"/>
                 </node>
 				<node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="16"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
@@ -3008,11 +3008,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="bc1292dc-16f2-47b3-9733-89ea21f31514"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(6)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3020,11 +3020,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="7ca86bea-bc82-4855-a70d-0ba262833d41"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
                     <attribute id="Level" type="uint8" value="18"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3032,11 +3032,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="d6590796-6a06-47a6-b597-5e5f854d8d29"/>
                 </node>
 				<node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
                     <attribute id="Level" type="uint8" value="19"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3044,11 +3044,11 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="31caa4bf-b08e-4199-a171-856b5ab6f7f6"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);"/>
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3056,7 +3056,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
-                    <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
+                    <attribute id="UUID" type="guid" value="de7651b6-67a7-4378-80d5-90a198bbc83b"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3116,7 +3116,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="d6207e54-4f48-4f12-874b-513d8cca4bf5"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3126,9 +3126,9 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e64bc365-6037-4f82-b710-8d958d9334e6,1,DruidCircleLand)"/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="defabadf-e6ae-4afb-90d6-626dc84136d4"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3140,7 +3140,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="16735da1-cb91-4a2e-9f21-58a145b4ca4a"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3152,7 +3152,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="08c5a922-bcef-48b5-945f-fa7fba37af39"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3164,7 +3164,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="6d2093f3-7a1d-4efc-89a9-1847073bb109"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3174,9 +3174,9 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e64bc365-6037-4f82-b710-8d958d9334e6,1,DruidCircleLand)"/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="25dd747a-fce6-4db9-841c-83849c520e78"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3188,7 +3188,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="c007f830-1ac0-46c2-be9a-0b6bd3b6aa28"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3200,7 +3200,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="885fd2a2-f936-484c-b874-b7734c81eabb"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3212,7 +3212,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="918b146e-1f84-402a-b121-88c38a01c8b6"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3222,9 +3222,9 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e64bc365-6037-4f82-b710-8d958d9334e6,1,DruidCircleLand)"/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="cb73dd1d-083e-474e-b456-8eeeaafcf230"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3236,7 +3236,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="78f0cbb6-e2b2-46f0-9e5c-f1f1bfe8a87b"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3248,7 +3248,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="78ff7dbc-244d-4b37-88f7-7cc585e10f63"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3260,7 +3260,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="f246ff67-aa17-4e8a-9df3-4ae0f9d27647"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3272,7 +3272,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="4ca94e83-e629-4df1-8420-51c5d5231616"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3284,7 +3284,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="29283bc1-da96-460d-8800-cb6bfd998de6"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3296,7 +3296,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ba1f14d6-d40b-47ce-b071-91b491d87b27"/>
-                    <attribute id="UUID" type="guid" value="4e1839bb-77da-4481-9b37-3e23e4075283"/>
+                    <attribute id="UUID" type="guid" value="0ea4c11e-a198-4521-976d-cef963344e02"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3356,7 +3356,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="f15ad388-7058-4b82-9ec7-7b3223424924"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3368,7 +3368,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="f0459de4-bbd0-4c20-925c-93e881fa47a7"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3380,7 +3380,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="60347cfb-14a3-4d02-a559-681c8957e0b8"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3392,7 +3392,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="6a8cc1c1-5032-4bd3-a8e1-effc8cd0b811"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3404,7 +3404,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="ede9cbd1-7671-453f-a21b-ab6e6e9442e5"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3416,7 +3416,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="bbbfa3bb-8236-48e2-b1e5-3bb595b0855c"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3428,7 +3428,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="66c15f08-a23f-49a6-a0c0-79beb753c707"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3440,7 +3440,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="8d1b597f-68b3-4d2f-b44f-5a21b6225122"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3452,7 +3452,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="9be2691d-acbf-48d3-b334-6358248fb810"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3464,7 +3464,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="20f6654b-fb80-4e3f-9ccc-458c38fa4dbc"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3476,7 +3476,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="2ae5d7f5-a81e-4c64-8a5d-da942aac7d51"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3488,7 +3488,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="3e89dcfe-5cf2-4e76-b74e-e3fe90648745"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3500,7 +3500,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="566b9c2a-3827-4f86-878c-0a94c6f08515"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3512,7 +3512,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="556c7b0e-4d82-403d-a1b9-f3867a50fca2"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3524,7 +3524,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="e166f2da-65b9-458c-88a4-1806e86fa44c"/>
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -3536,7 +3536,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="ede8583c-434b-4fb2-87a8-af8e0e239d62"/>
-                    <attribute id="UUID" type="guid" value="69db7b28-6892-4f0f-9050-7d98979263c4"/>
+                    <attribute id="UUID" type="guid" value="e8aa296e-81d4-4285-885b-6e57d3ebb6ed"/>
                 </node>			
             </children>
         </node>
