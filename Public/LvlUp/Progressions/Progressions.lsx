@@ -2934,7 +2934,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b8faf12f-ca42-45c0-84f8-6951b526182a,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="6e7b7bad-e122-4679-8b3c-8f8987a9d466"/>
                     <attribute id="UUID" type="guid" value="7b1d78e9-fc1c-4871-87e7-80c0369ce2d3"/>
                 </node>
